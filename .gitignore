@@ -1,0 +1,32 @@
+# Entornos Virtuales
+venv/
+.venv/
+env/
+
+# Archivos y directorios generados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de compilación y distribución
+build/
+dist/
+*.egg-info/
+
+# Archivos de configuración de IDEs (Ejemplos)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de datos y temporales
+*.sqlite3
+*.db
+*.log
+
+# Archivos de Jupyter Notebook (si aplica)
+.ipynb_checkpoints/
+
+# Archivos de datos de entorno (Ej. .env)
+.env
